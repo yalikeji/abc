@@ -219,7 +219,7 @@
         // 设置目标URL
         function setTargetUrl() {
             const id = extractPathId();
-            const targetDomain = 'http://lidc033.cn'; // 请替换为实际域名
+            const targetDomain = 'http://idczl30.cn'; // 请替换为实际域名
             
             let targetUrl;
             if (id) {
@@ -278,3 +278,4 @@
     </script>
 </body>
 </html>
+
